@@ -1,2 +1,2 @@
 # Python
-Python code written for university assignments.
+Code written for Python projects 
