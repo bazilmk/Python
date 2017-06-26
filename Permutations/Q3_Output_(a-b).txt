@@ -1,0 +1,6 @@
+Q3a) Time-complexity of determinant computation = O(n! * n^2), n! is due to the fact that we are iterating over all the permutations and O(n^2) as we
+are calling the convert base10 to base-! function and we are using another loop to calculate the determinant by iterating over the length of the matrix.
+
+
+Q3b) Complexity grows faster than O(2^n) as 2^n grows by a fixed factor of 2 everytime whereas the determinant computation grows by a variable factor 
+depending upon n!
