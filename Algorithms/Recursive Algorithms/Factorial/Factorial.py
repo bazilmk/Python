@@ -5,7 +5,7 @@ Timestamp: 19-Dec-2016 4:45PM
 
 def factorial(n):
     '''
-    This program calculates the factorial of any number iteratively
+    This program calculates the factorial of any number recursively
     :param n: Number inputted by the user
     :precondition: The number cannot be negative
     :postcondition: The factorial of the number is calculated
