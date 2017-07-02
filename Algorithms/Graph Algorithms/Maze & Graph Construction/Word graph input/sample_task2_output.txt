@@ -1,0 +1,23 @@
+--- Component = 1, nVertices = 7, Diameter = 2
+meads
+meals
+means
+meant
+meany
+meats
+meaty
+
+--- Component = 2, nVertices = 3, Diameter = 2
+burns
+burnt
+turns
+
+--- Component = 3, nVertices = 2, Diameter = 1
+catch
+hatch
+
+--- Component = 4, nVertices = 1, Diameter = 0
+truck
+
+--- Component = 5, nVertices = 1, Diameter = 0
+snafu
