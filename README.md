@@ -1,4 +1,4 @@
-# Python
+# Algorithms and Data Structures
 
 This repository consists of the following:
 
